@@ -1,1 +1,1 @@
-https://github.com/BadSolver/rsschool-cv/blob/gh-pages/CV.md
+https://Badsolver.github.io/rsschool-cv/cv
