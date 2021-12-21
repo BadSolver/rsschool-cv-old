@@ -1,2 +1,4 @@
-# rsschool-cv
-hello
+#[rsschool](https://rs.school/)
+---
+# Alex Kurov
+
