@@ -24,7 +24,7 @@ I want to learn and develop in this direction.
 + Basic Git
 + Desire to learn
 + Team playing
-+ Vscode / PS
++ Vscode / PS1
 
 ---
 ### Code Examples:
