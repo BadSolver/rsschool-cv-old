@@ -29,21 +29,8 @@ I want to learn and develop in this direction.
 ---
 ### Code Examples:
 
-```<p class="price2"> 165 000 руб.</p>     
-        <p class="price3"> 165 000 руб.</p>  
-    <div class="sered_prav">
-            <img src="man1.png" alt="444" width="880" height="730">
-            <div class="zag_sered_prav">
-                <h2>Новая Коллекция</h2>
-            </div>
-            <div class="liner_sered1">
-                <hr>
-            </div>
-            <div class="katalog">
-                <a href="111">Каталог </a> 
-            </div>
-            <div class="ramka_seredina"><hr></div>
-    </div>
+```
+<p class="price2"> 165 000 руб.</p>    
 ```
 
 ---
