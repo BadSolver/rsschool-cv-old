@@ -46,3 +46,9 @@ I want to learn and develop in this direction.
             <div class="ramka_seredina"><hr></div>
     </div>
 ```
+
+---
+### Work experience:
++ The very first layout of the site: [Pizhon](/rsschool-cv/first.png)
+
+---
