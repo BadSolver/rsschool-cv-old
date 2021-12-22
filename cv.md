@@ -60,3 +60,7 @@ I want to learn and develop in this direction.
 + TeachMeSkills
 
 ----
+
+### Language:
++ Russian - native
++ English - A2 (B1 in process)
