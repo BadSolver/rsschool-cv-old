@@ -30,7 +30,8 @@ I want to learn and develop in this direction.
 
 ### Code Examples:
 
-```<p class="price2"> 165 000 руб.</p>
+```
+<p class="price2"> 165 000 руб.</p>
 ```
 
 ---
