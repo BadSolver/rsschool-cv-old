@@ -1,3 +1,218 @@
-{
-    
+/*Обнуление*/
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+nav,footer,header,aside{display: block;}
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;
+	color: rgb(126, 123, 123);
+	font-size: 16px;
+}
+a:hover{text-decoration: underline;
+	color: rgb(136, 116, 6);	
+}
+h3{
+	font-size: 22px;
+	color:rgb(136, 116, 6);
+}
+h1{
+	text-align: center;
+	padding: 30px 0 0 0 ;
+}
+h2,h3,h4,h5{
+	margin: 0 0 0 10px;
+}
+img{vertical-align: top;}
+
+
+body{
+	margin: 0 auto;
+	width: 800px;
+	height: 1000px;
+	overflow-x: hidden;
+	
+	font-family: 'Times New Roman', Times, serif;
+	background-color: rgb(41, 41, 41);
+	
+}
+.prav_storona{
+	position: relative;
+	width: 500px;
+	height:1000px ;
+	background-color: white;
+	left: 300px;
+}
+.name{
+	color: rgb(136, 116, 6);
+	font-size: 32px;
+	margin: 90px 0 25px 0;
+}
+.speciality{
+	color: gray;
+	font-size: 22px;
+	margin: 25px 0 0 0 ;
+}
+.student_1{
+	margin: 0 0 0 15px;
+}
+.about{
+	color: rgb(136, 116, 6);
+	margin: 25px 0 10px 15px ;
+}
+.my_history{
+	font-size: 18px;
+	margin: 10px 0 10px 0;
+}
+.text{
+	margin: 0 0 0 25px;
+	letter-spacing: 1px;
+	font-size: 16px;
+}
+.bsuir{
+	margin: 10px;
+	font-size: 18px;
+}
+.list{
+	margin: 15px 0 0 20px;
+	font-size: 18px;
+}
+.list li{
+	margin: 0 10px 7px 25px;
+	
+}
+.education{
+	margin: 27px 0 0 ;
+	
+}
+.educat_1{
+	margin: 0 0 0 15px;
+}
+.aside_panel{
+	position: absolute;
+	bottom: .1px;
+	right: 500px;
+	width: 300px;
+	height: 1000px;
+	margin: 20px 0 0 0;
+	z-index: 0;
+}
+.avatar{
+	position: relative;
+	bottom: 970px;
+	left: 35px;
+}
+.border1{
+	position: absolute;
+	bottom: 498px;
+	display: block;
+	z-index: 1;
+	width: 300px;
+}
+.contacts{
+	position: relative;
+	bottom: 937px;
+	color: rgb(126, 123, 123);
+	margin: 0 0 0 55px;
+	letter-spacing: 1px;
+}
+.con_info{
+	position: relative;
+	right: 30px;
+	top: 15px;
+}
+.list1{
+	margin: 35px 0 0 0;
+	font-size: 17px;
+}
+.skills{
+	position: relative;
+	bottom: 900px;
+	margin: 1px 0 0 55px;
+	font-size: 17px;
+	color: rgb(126, 123, 123);
+}
+.list_skills li{
+	padding: 3px 0 0 0;
+}
+.skills_title{
+	color:rgb(136, 116, 6) ;
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	position: relative;
+	right: 17px;
+	
+}
+.list_lang{
+	margin: 15px 0 0 20px;
+	font-size: 16px;	
+}
+.list_lang li{
+	margin: 0 10px 7px 0;
+}
+.languages{
+	margin: 27px 0 0 10px;	
+}
+.lang1{
+	position: relative;
+	margin: 0 0 10px 5px;
+	
+}
+.work_title{
+	margin: 10px 0 10px 20px;
+}
+.bord_1{
+	position: relative;
+	margin: 17px 0 0 0 ;
+}
+.hr_niz{
+	position: relative;
+	bottom: 892px;
+}
+.work_text{
+	margin: 0 0 0 15px;
+}
+.code_exa{
+	margin: 0 0 0 15px;
+
+}
+.code_1{
+	background: url(../CSSFL/backgroung.jpg) 0 0 no-repeat;
+	color: white;
+	font-size: 16px;
+	position: relative;
+	right: 0px;
+	z-index: 2;
+	top: 35px;
+	width: 250px;
+	height: 90px;
+	color: rgb(136, 116, 6);
+	font-weight: 800;
+	
+}
+.nav_panel{
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	bottom: 35px;
 }
