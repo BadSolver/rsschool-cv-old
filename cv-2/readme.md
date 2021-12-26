@@ -1,1 +1,1 @@
-https://BadSolver.github.io/rsschool-cv/
+https://badsolver.github.io/rsschool-cv/
